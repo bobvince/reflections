@@ -1,0 +1,6 @@
+staging area lets you start the process and decide if you want them in the same comit the other two are not going to change
+the staging area is intermediate area between working directory and repository. The value is that people can group multiple files into one single commit instead of one file per commit.
+branches are helpful when you want to have tow different versions that follow different paths.  you stil have the main version that you can go nack to while being able to work on the two different versions
+diagrams help you see the flow of Git and how it will help you 
+the merge of two branchs joins them with all the cahnges saved  the diagram shows the paths that they follow
+pro and cons of auto merging is that if all merges were auto you would get lots of errors and bad code

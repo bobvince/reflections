@@ -1,0 +1,7 @@
+this would make it very easy to switch between your different version when you are working on improving your work.  also if you make an error you can go back before the error
+pros to manual commits is that yoy choose the points whre you like and whouls suit you best, cons you could forget to to commit and have large files to go over
+git will save muitiple files becuase they are linked and git knows this.  google treats them all as single files
+you can use the Git log to see the list of all the commits once you have that you can use the git diff to cpmpare two of them and see what changes were made
+version control makes it a lot safe to try different ideas becuase if they do not work you can go back to ones that did
+i will use gut to comit files so i can check between them.  i would alsohave like some info on git gui as that looks a bit more like what i am use to
+switching to lesson 2
